@@ -1,0 +1,68 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Visual Studio / JetBrains Rider
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Rider
+.idea/
+
+# Unity meta files (should NOT ignore)
+# *.meta
+
+# Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Asset meta data should be tracked
+# Uncommenting the following line would ignore meta files
+# *.meta
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# Assets/AssetStoreTools*
+
+# Auto-generated Jetbrains Rider plugin
+.idea/
+
+# Exclude Collaborate metadata
+.collab/
+
+# Exclude PlasticSCM metadata
+PlasticSCM/
+
+# Exclude Cache
+Library/ScriptAssemblies/
+Library/ShaderCache/
+Library/StateCache/
+Library/Artifacts/
+Library/il2cpp_cache/
+
+# Exclude Unity Addressable Assets cache
+Assets/AddressableAssetsData/*/build/
+Assets/AddressableAssetsData/*/cache/
+
+# Exclude user-specific settings
+UserSettings/
