@@ -2452,7 +2452,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 4f0526767a955da4980a8f07cb00fee0, type: 3}
+    m_Font: {fileID: 12800000, guid: 2f90e2c9fc927e646bb7f979678a8901, type: 3}
     m_FontSize: 42
     m_FontStyle: 0
     m_BestFit: 0
@@ -2464,7 +2464,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: calidad
+  m_Text: Alta
 --- !u!222 &1203171247
 CanvasRenderer:
   m_ObjectHideFlags: 0

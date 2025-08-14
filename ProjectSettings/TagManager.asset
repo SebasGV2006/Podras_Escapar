@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Texto_animacion_inicio
+  - personaje
   layers:
   - Default
   - TransparentFX
