@@ -3,7 +3,10 @@ guid: 80a123abeb2cbf94e998603f3eb64965
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - jugadorPrefab: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  - vcam: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
