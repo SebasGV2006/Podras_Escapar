@@ -46,10 +46,12 @@
      <Compile Include="Assets\Scripts\MovimientoJugador.cs" />
      <Compile Include="Assets\Scripts\DontDestroyAudio.cs" />
      <Compile Include="Assets\Scripts\MenuSeleccionPersonaje.cs" />
+     <Compile Include="Assets\Scripts\ScreenFader.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
      <Compile Include="Assets\Modulo_de_preguntas\ResponderPregunta.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+     <Compile Include="Assets\Scripts\Teleport.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
      <Compile Include="Assets\Scripts\InicioJugador.cs" />
@@ -82,8 +84,8 @@
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
-     <Compile Include="Assets\Scripts\Teleport.cs" />
-     <Compile Include="Assets\Scripts\ScreenFader.cs" />
+     <Compile Include="Assets\Scripts\Entrar.cs" />
+     <Compile Include="Assets\Scripts\BanioPanel.cs" />
      <None Include="Assets\TextMesh_Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh_Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh_Pro\Shaders\TMP_Bitmap.shader" />

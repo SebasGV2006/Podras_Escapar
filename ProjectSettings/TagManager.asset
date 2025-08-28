@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Texto_animacion_inicio
   - personaje
+  - Entrada
   layers:
   - Default
   - TransparentFX

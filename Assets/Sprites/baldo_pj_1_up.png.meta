@@ -3,20 +3,20 @@ guid: e96664306c317e84ebf4c658d40105ea
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8472089213373266179
-    second: baldo pj 1_0
+      213: -2052891426121484859
+    second: baldo_pj_1_up_0
   - first:
-      213: -8639893368363183397
-    second: baldo pj 1_1
+      213: -5660108395319453646
+    second: baldo_pj_1_up_1
   - first:
-      213: -6426712444823820553
-    second: baldo pj 1_2
+      213: -7213765042581750701
+    second: baldo_pj_1_up_2
   - first:
-      213: -7158354489131376341
-    second: baldo pj 1_3
+      213: 8402875538393452221
+    second: baldo_pj_1_up_3
   - first:
-      213: 4661254173532087727
-    second: baldo pj 1_4
+      213: -1688990501720306396
+    second: baldo_pj_1_up_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -118,7 +118,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: baldo pj 1_0
+      name: baldo_pj_1_up_0
       rect:
         serializedVersion: 2
         x: 17
@@ -126,20 +126,20 @@ TextureImporter:
         width: 30
         height: 57
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df6c77b5fb71d6a80800000000000000
-      internalID: -8472089213373266179
+      spriteID: 5c57597ef1aa283e0800000000000000
+      internalID: -2052891426121484859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: baldo pj 1_1
+      name: baldo_pj_1_up_1
       rect:
         serializedVersion: 2
         x: 81
@@ -147,20 +147,20 @@ TextureImporter:
         width: 30
         height: 57
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd29571f1cee81880800000000000000
-      internalID: -8639893368363183397
+      spriteID: 23817ca27614371b0800000000000000
+      internalID: -5660108395319453646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: baldo pj 1_2
+      name: baldo_pj_1_up_2
       rect:
         serializedVersion: 2
         x: 17
@@ -168,20 +168,20 @@ TextureImporter:
         width: 30
         height: 57
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f6a1b4e41bbfc6a0800000000000000
-      internalID: -6426712444823820553
+      spriteID: 35cb8c7f9ee83eb90800000000000000
+      internalID: -7213765042581750701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: baldo pj 1_3
+      name: baldo_pj_1_up_3
       rect:
         serializedVersion: 2
         x: 81
@@ -189,20 +189,20 @@ TextureImporter:
         width: 30
         height: 57
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b21600bc48a68ac90800000000000000
-      internalID: -7158354489131376341
+      spriteID: dbec2c528c20d9470800000000000000
+      internalID: 8402875538393452221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: baldo pj 1_4
+      name: baldo_pj_1_up_4
       rect:
         serializedVersion: 2
         x: 17
@@ -210,14 +210,14 @@ TextureImporter:
         width: 30
         height: 57
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa5ef2579f910b040800000000000000
-      internalID: 4661254173532087727
+      spriteID: 42dc3fb56108f88e0800000000000000
+      internalID: -1688990501720306396
       vertices: []
       indices: 
       edges: []
