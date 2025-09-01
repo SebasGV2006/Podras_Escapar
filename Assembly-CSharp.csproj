@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scripts\Personaje.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+     <Compile Include="Assets\Scripts\BanioPanel.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
@@ -71,6 +72,7 @@
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
      <Compile Include="Assets\Scripts\Salir.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scripts\Entrar.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
@@ -84,8 +86,8 @@
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh_Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
-     <Compile Include="Assets\Scripts\Entrar.cs" />
-     <Compile Include="Assets\Scripts\BanioPanel.cs" />
+     <Compile Include="Assets\Scripts\Register.cs" />
+     <Compile Include="Assets\Scripts\Login.cs" />
      <None Include="Assets\TextMesh_Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh_Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh_Pro\Shaders\TMP_Bitmap.shader" />
@@ -101,6 +103,7 @@
      <None Include="Assets\TextMesh_Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
      <None Include="Assets\TextMesh_Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\TextMesh_Pro\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\credentials.txt" />
      <None Include="Assets\TextMesh_Pro\Examples &amp; Extras\Fonts\OFL.txt" />
      <None Include="Assets\TextMesh_Pro\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\TextMesh_Pro\Resources\LineBreaking Following Characters.txt" />

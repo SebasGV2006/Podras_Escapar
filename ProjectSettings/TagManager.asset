@@ -47,3 +47,6 @@ TagManager:
   - name: personaje
     uniqueID: 3123782947
     locked: 0
+  - name: Estantes
+    uniqueID: 3705993165
+    locked: 0

@@ -5,9 +5,15 @@ using UnityEngine;
 public class Entrar : MonoBehaviour
 {
     public GameObject panelDialogEntrada;
+    public AudioClip sonidoEntrada; // Sonido que sonará al activar el panel
+
+    private AudioSource audioSource;
 
     private void Start()
     {
+        // Referencia al AudioSource en el mismo objeto
+        audioSource = GetComponent<AudioSource>();
+
         // Al iniciar el juego, el panel está oculto
         if (panelDialogEntrada != null)
         {
@@ -25,6 +31,12 @@ public class Entrar : MonoBehaviour
             if (panelDialogEntrada != null)
             {
                 panelDialogEntrada.SetActive(true);
+
+                // Reproducir sonido si hay un clip asignado
+                if (sonidoEntrada != null && audioSource != null)
+                {
+                    audioSource.PlayOneShot(sonidoEntrada);
+                }
             }
         }
     }
